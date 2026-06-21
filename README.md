@@ -37,7 +37,7 @@ class AravindKumarGS:
 ```
 
 - 🎓 Currently pursuing **B.E. in Computer Science & Engineering** — CGPA 8.56/10
-- 💼 Multiple internships spanning **Full-Stack (IBM, Decode Labs)**, **Frontend (ZeoTheta)**, **Python (CodSoft, CodeAlpha)**, **Software Dev (SkillCraft Technology)**, and **C++ (Kodbud)**
+- 💼 Multiple internships spanning **Full-Stack (IBM, Decode Labs)**, **Frontend (ZeTheta)**, **Python (CodSoft, CodeAlpha)**, **Software Dev (SkillCraft Technology)**, and **C++ (Kodbud)**
 - 📚 Actively learning via **Infosys Springboard** — completed Spring REST, PyCharm, and Angular coursework
 - 🏆 Winner — inter-college hackathon competitions
 - 🌱 Sharpening Data Structures, Algorithms, and backend system design daily
@@ -100,7 +100,7 @@ class AravindKumarGS:
 |---|---|---|
 | Full Stack Development Intern | **ADROITITTECHNOLOGIES** | HTML, CSS, JavaScript, Node.js, Express.js — frontend & backend APIs |
 | Full Stack Development Intern | **Decode Labs** | Full-stack web development tasks |
-| Frontend Developer Intern | **ZeoTheta** | Multi-step loan application UI — form flow, validation, state management |
+| Frontend Developer Intern | **ZeTheta** | Multi-step loan application UI — form flow, validation, state management |
 | Software Development Intern | **SkillCraft Technology** | Java & Python application development |
 | Python Developer Intern | **CodSoft** | Automation tools, scripting, data processing |
 | Python Programming Intern | **CodeAlpha** | Hands-on Python programming projects |
