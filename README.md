@@ -112,9 +112,9 @@ class AravindKumarGS:
 
 ### 📌 Featured Projects
 
-#### 🔹 [CRM Application (MEAN Stack)](https://github.com/ARAVINDKUMARGS)
+#### 🔹 [CRM Application (MERN Stack)](https://github.com/ARAVINDKUMARGS)
 A Customer Relationship Management system to manage client data and track customer interactions.
-`MongoDB` `Express.js` `Angular` `Node.js`
+`MongoDB` `Express.js` `React` `Node.js`
 
 #### 🔹 [Multi-Step Loan Application](https://github.com/ARAVINDKUMARGS)
 A multi-step loan application frontend with form flow across stages, input validation, and state management. Built during a frontend internship at ZeoTheta.
