@@ -98,7 +98,7 @@ class AravindKumarGS:
 
 | Role | Company | Focus |
 |---|---|---|
-| Full Stack Development Intern | **IBM** | HTML, CSS, JavaScript, Node.js, Express.js — frontend & backend APIs |
+| Full Stack Development Intern | **ADROITITTECHNOLOGIES** | HTML, CSS, JavaScript, Node.js, Express.js — frontend & backend APIs |
 | Full Stack Development Intern | **Decode Labs** | Full-stack web development tasks |
 | Frontend Developer Intern | **ZeoTheta** | Multi-step loan application UI — form flow, validation, state management |
 | Software Development Intern | **SkillCraft Technology** | Java & Python application development |
